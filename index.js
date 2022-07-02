@@ -50,7 +50,7 @@ function removeOption() {
       }
 
 }
-function displayitem()git
+function displayitem()
 {
 
       SELECTEDITEM.innerHTML = item.options[item.selectedIndex].text
